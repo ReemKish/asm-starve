@@ -19,8 +19,7 @@ _Tested and working on DOSBox version 0.74-3._
 
 # screenshots
 <p float="left" align="center">
-  <img height=280 src="img/intro.png">
-  &nbsp;&nbsp;&nbsp;
-  <img height=280 src="img/help.png">
+  <img height=270 src="img/intro.png">
+  <img height=270 src="img/help.png">
 </p>
  
